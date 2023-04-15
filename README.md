@@ -1,4 +1,4 @@
-# e-calendars
+# e-ink-calendars
 
 This is my repository of calendars designed to use on e-ink tablets like reMarkable2, Super Note, and Boox.
 
