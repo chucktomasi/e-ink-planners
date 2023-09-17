@@ -9,6 +9,7 @@ The PDFs provided here include clickable links for easy navigtion through the mo
 * reMarkable2
 * Boox Note Air 2
 * SuperNote A5X
+* iPad with the Notably App
 
 Please let me know if you have another and how your testing went. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
 
