@@ -1,10 +1,10 @@
 # e-ink-calendars
 
-This is my repository of calendars designed to use on e-ink tablets like reMarkable2, Super Note, and Boox.
+This is my repository of calendars designed to use on e-ink tablets like reMarkable2, Super Note, and Boox. Note: This is NOT supported on desktops or tablets.
 
 ## Device support
 
-The PDFs include clickable links for easy navigtion through the months and days of the year. These have been tested on  reMarkable2 and Boox devices, but if you have another please let me know how it goes. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
+The PDFs include clickable links for easy navigtion through the months and days of the year. These have been tested on reMarkable2 and Boox devices, but if you have another please let me know how it goes. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
 
 ## Creation Process
 
@@ -20,5 +20,6 @@ The PDFs and their source PowerPoint files are provided free of charge and with 
 |-|-|-|
 |1.0|2023-02-03|Intial release of 2023 files|
 |1.1|2023-04-15|Created 2024 files. Added cover page and expanded tabs on month pages.|
+|1.2|2023-09-16|Created 2025 files.|
 
-![](images/2023-04-15-15-35-31.png)
+![](images/2023-09-16-20-46-10.png)
