@@ -22,4 +22,4 @@ The PDFs and their source PowerPoint files are provided free of charge and with 
 |1.1|2023-04-15|Created 2024 files. Added cover page and expanded tabs on month pages.|
 |1.2|2023-09-16|Created 2025 files.|
 
-![](images/2023-09-16-20-46-10.png)
+![2025 planner cover sheet](images/2023-09-16-20-46-10.png)
