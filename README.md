@@ -1,14 +1,20 @@
 # e-ink-calendars
 
-This is my repository of calendars designed to use on e-ink tablets like reMarkable2, Super Note, and Boox. Note: This is NOT supported on desktops or tablets.
+This is my repository of calendars designed to use on e-ink tablets. These are free of charge and you may download the PowerPoint files and modify them to your own design.
 
 ## Device support
 
-The PDFs include clickable links for easy navigtion through the months and days of the year. These have been tested on reMarkable2 and Boox devices, but if you have another please let me know how it goes. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
+The PDFs provided here include clickable links for easy navigtion through the months and days of the year. These have been tested on the following devices:
+
+* reMarkable2
+* Boox Note Air 2
+* SuperNote A5X
+
+Please let me know if you have another and how your testing went. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
 
 ## Creation Process
 
-The PDFs were created a Mac using the dedicated PowerPoint app, then opened through Office 365 in Chrome and downloaded as PDF. The local app provides internal document links and the Sharepoint operation preseves the links and formatting when creting the PDF.
+The PDFs were created a Mac using the desktop PowerPoint app, then opened in Office 365 in Chrome and downloaded as PDF. The local app provides internal document links and the Sharepoint operation preseves the links and formatting when creting the PDF.
 
 ## Disclaimer
 
