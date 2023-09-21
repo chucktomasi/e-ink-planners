@@ -4,7 +4,7 @@ This is my repository of planners designed to use on e-ink tablets. Files are or
 
 ## Device support
 
-The PDFs provided here include clickable links for easy navigtion through the months and days of the year. These have been tested on the following devices:
+The PDFs provided here include clickable links for easy navigation through the months and days of the year. These have been tested on the following devices:
 
 * reMarkable2
 * Boox Note Air 2
