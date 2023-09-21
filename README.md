@@ -30,4 +30,4 @@ The PDFs and their source PowerPoint files are provided free of charge and with 
 |1.2|2023-09-16|Created 2025 files.|
 |1.3|2023-09-19|Added photo covers.|
 
-![2025 planner cover sheet](images/images/SmartSelect_20230921_095316_Chrome.jpg)
+![2025 planner cover sheet](images/SmartSelect_20230921_095316_Chrome.jpg)
