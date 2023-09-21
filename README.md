@@ -1,6 +1,6 @@
-# e-ink-calendars
+# e-ink-planners
 
-This is my repository of calendars designed to use on e-ink tablets. Files are organized in folders by hear. PDFs are available in two formats; files with "Monday" in the name have weeks that start on Monday. Similarly, files with "Sunday" in the name start on Sunday. These are free of charge and you may download the PowerPoint files and modify them to your own design.
+This is my repository of planners designed to use on e-ink tablets. Files are organized in folders by hear. PDFs are available in two formats; files with "Monday" in the name have weeks that start on Monday. Similarly, files with "Sunday" in the name start on Sunday. These are free of charge and you may download the PowerPoint files and modify them to your own design.
 
 ## Device support
 
