@@ -10,6 +10,7 @@ The PDFs provided here include clickable links for easy navigation through the m
 * Boox Note Air 2
 * SuperNote A5X
 * iPad with the Notably App
+* Samsung phone with Samsung (PDF) Notes app
 
 Please let me know if you have another and how your testing went. The PDFs are not intended for desktop use, but if they happen to work, 😀 to you!
 
