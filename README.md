@@ -1,6 +1,10 @@
 # e-ink-planners
 
+![Color covers](images/Color-2024-2026.png)
+
 This is my repository of planners designed to use on e-ink tablets. Files are organized in folders by year. PDFs are available in two formats; files with "Monday" in the name have weeks that start on Monday. Similarly, files with "Sunday" in the name start on Sunday. These are free of charge. I also make the PowerPoint files available should you want to modify them.
+
+Color and monochrome versions are available for 2024 and 2025. Since color versions work well on most mono devices, support for mono is dropped in 2026.
 
 ## Device support
 
@@ -34,5 +38,3 @@ I also offer a reference code for the [reMarkable2](https://remarkable.com/store
 |1.3|2023-09-19|Added photo covers.|
 |1.4|2023-10-17|Minor bug fixes.|
 |2.0|2023-11-11|Full color versions available 2024-2026|
-
-![2025 planner cover sheet](images/SmartSelect_20230921_095316_Chrome.jpg)
